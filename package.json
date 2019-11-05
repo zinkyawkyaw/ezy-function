@@ -1,0 +1,36 @@
+{
+  "name": "ezy-function",
+  "version": "1.0.0",
+  "description": "easy function",
+  "main": "dist/ezyFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinkyawkyaw/ezy-function.git"
+  },
+  "keywords": [
+    "comma",
+    "seperate",
+    "number",
+    "number",
+    "to",
+    "float",
+    "string",
+    "to",
+    "number",
+    "popup",
+    "window",
+    "round"
+  ],
+  "author": "Zin Kyaw Kyaw (AJ)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zinkyawkyaw/ezy-function/issues"
+  },
+  "homepage": "https://github.com/zinkyawkyaw/ezy-function#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
