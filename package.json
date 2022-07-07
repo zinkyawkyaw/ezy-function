@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/zinkyawkyaw/ezy-function#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
